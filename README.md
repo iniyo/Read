@@ -72,7 +72,7 @@ namespace standard_output_2 {
             Console.WriteLine("Percent Value = {0, 10:P3}", k);
             Console.WriteLine("Percent Value = {0:P3}", k);
             int value = 34561234;
-            Console.WriteLine("decimal Value = {0, -15:D}", value);
+            Console.WriteLine("decimal Value = {0, -15:D}", value
             Console.WriteLine("decimal Value = {0:D10}", value);
         }
     }
